@@ -1,7 +1,7 @@
 <DOCTYPE! html>
 <html leng="pt-br">
 <head>
-<title> Olá Turma </title>
+<title> Olá Turma </titel>
 </head>
 <body>
 <h1>Primeira Aula</h1>
